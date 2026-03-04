@@ -36,7 +36,7 @@ scipy==1.17.1
 six==1.17.0
 starlette==0.52.1
 sympy==1.14.0
-torch==2.2.2
+torch>=2.0
 torchvision==0.17.2
 typing-inspection==0.4.2
 typing_extensions==4.15.0
